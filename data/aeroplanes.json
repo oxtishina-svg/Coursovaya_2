@@ -1,0 +1,170 @@
+[
+    {
+        "callsign": "FIN4YP",
+        "origin_country": "Finland",
+        "velocity": 179.56,
+        "altitude": 10980.42,
+        "longitude": 25.4041,
+        "latitude": 62.2456
+    },
+    {
+        "callsign": "FIN4MW",
+        "origin_country": "Finland",
+        "velocity": 187.77,
+        "altitude": 10972.8,
+        "longitude": 25.1329,
+        "latitude": 63.2835
+    },
+    {
+        "callsign": "FIN553",
+        "origin_country": "Finland",
+        "velocity": 198.05,
+        "altitude": 7932.42,
+        "longitude": 25.9727,
+        "latitude": 65.5186
+    },
+    {
+        "callsign": "FIN19",
+        "origin_country": "Finland",
+        "velocity": 224.51,
+        "altitude": 10363.2,
+        "longitude": 19.7716,
+        "latitude": 61.4434
+    },
+    {
+        "callsign": "FHY847",
+        "origin_country": "Turkey",
+        "velocity": 175.36,
+        "altitude": 6438.9,
+        "longitude": 21.1182,
+        "latitude": 62.5753
+    },
+    {
+        "callsign": "AFL011",
+        "origin_country": "Russian Federation",
+        "velocity": 34.16,
+        "altitude": 8763.0,
+        "longitude": 30.7187,
+        "latitude": 59.7275
+    },
+    {
+        "callsign": "SSF128",
+        "origin_country": "Russian Federation",
+        "velocity": 33.71,
+        "altitude": 2240.28,
+        "longitude": 30.7152,
+        "latitude": 59.7205
+    },
+    {
+        "callsign": "OHHBH",
+        "origin_country": "Finland",
+        "velocity": 28.31,
+        "altitude": 0.0,
+        "longitude": 24.3322,
+        "latitude": 60.1672
+    },
+    {
+        "callsign": "THY3HU",
+        "origin_country": "Turkey",
+        "velocity": 33.07,
+        "altitude": 10012.68,
+        "longitude": 30.7054,
+        "latitude": 59.7024
+    },
+    {
+        "callsign": "HLF9900",
+        "origin_country": "China",
+        "velocity": 33.71,
+        "altitude": 10668.0,
+        "longitude": 30.7155,
+        "latitude": 59.7206
+    },
+    {
+        "callsign": "CES213",
+        "origin_country": "China",
+        "velocity": 266.19,
+        "altitude": 10972.8,
+        "longitude": 23.5294,
+        "latitude": 61.5878
+    },
+    {
+        "callsign": "DFOIL",
+        "origin_country": "Germany",
+        "velocity": 121.48,
+        "altitude": 2964.18,
+        "longitude": 22.7793,
+        "latitude": 61.0447
+    },
+    {
+        "callsign": "LHX848",
+        "origin_country": "Germany",
+        "velocity": 0.32,
+        "altitude": 0.0,
+        "longitude": 24.9627,
+        "latitude": 60.3177
+    },
+    {
+        "callsign": "PBD6823",
+        "origin_country": "Russian Federation",
+        "velocity": 34.07,
+        "altitude": 45.72,
+        "longitude": 30.8041,
+        "latitude": 59.7022
+    },
+    {
+        "callsign": "FIN3KC",
+        "origin_country": "Finland",
+        "velocity": 120.32,
+        "altitude": 4564.38,
+        "longitude": 26.3546,
+        "latitude": 61.3949
+    },
+    {
+        "callsign": "Неизвестно",
+        "origin_country": "Finland",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "longitude": 24.9738,
+        "latitude": 60.3148
+    },
+    {
+        "callsign": "KLM23N",
+        "origin_country": "Kingdom of the Netherlands",
+        "velocity": 114.73,
+        "altitude": 1524.0,
+        "longitude": 24.4811,
+        "latitude": 60.1408
+    },
+    {
+        "callsign": "THY3151",
+        "origin_country": "Turkey",
+        "velocity": 33.71,
+        "altitude": 9662.16,
+        "longitude": 30.7155,
+        "latitude": 59.7205
+    },
+    {
+        "callsign": "OHHFD",
+        "origin_country": "Finland",
+        "velocity": 36.45,
+        "altitude": 152.4,
+        "longitude": 25.5733,
+        "latitude": 60.4343
+    },
+    {
+        "callsign": "FIH10",
+        "origin_country": "Finland",
+        "velocity": 60.65,
+        "altitude": 68.58,
+        "longitude": 25.0002,
+        "latitude": 60.2857
+    },
+    {
+        "callsign": "JAL47",
+        "origin_country": "Japan",
+        "velocity": 258.57,
+        "altitude": 11879.58,
+        "longitude": 20.9025,
+        "latitude": 67.5164
+    }
+]

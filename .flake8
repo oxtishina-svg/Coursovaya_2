@@ -1,0 +1,9 @@
+[flake8]
+exclude =
+    .venv,
+    .git,
+    __pycache__,
+    .pytest_cache,
+    .mypy_cache,
+    htmlcov
+max-line-length = 119
